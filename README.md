@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-🚀 Embrace the journey as you step into my GitHub space, where coding becomes an art form! 💻 I'm a passionate and versatile developer with a primary focus on frontend technologies like React, React Native and Next.js. ✨ Crafting seamless and responsive user experiences is my forte. 🎨 I thrive on turning design concepts into elegant, interactive web and mobile applications. 🌐 Beyond the frontend, I'm a full-stack enthusiast. 🔧 I leverage the power of Spring Boot and its ecosystem to build robust and scalable backends. 🚀 Dive into my repositories, explore the code, and discover the possibilities!
+* 🚀 Welcome to my GitHub space!
+* 💻 I'm a passionate and versatile developer with a primary focus on frontend technologies like React, React Native and Next.js.
+* ✨ Crafting seamless and responsive user experiences is my forte.
+* 🎨 I thrive on turning design concepts into elegant, interactive web and mobile applications.
+* 🌐 Beyond the frontend, I'm a full-stack enthusiast.
+* 🔧 I leverage the power of Spring Boot and its ecosystem to build robust and scalable backends.
+* ⚡ Dive into my repositories, explore the code, and discover the possibilities!
 
 * 🌍  I'm based in Ankara
 * 🖥️  See my portfolio at [Mammimia Portfolio (Not updated)](http://mammimia.github.io/portfolio/)
